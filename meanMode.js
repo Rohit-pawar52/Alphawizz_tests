@@ -1,5 +1,5 @@
 // code for mean median
-let data = [2, 5, 6, 6, 6, 62, 62, 4, 4, 4, 4, 4, 8, 7];
+let data = [12, 48, 65, 62, 62, 62, 62, 41, 64, 14, 35, 48, 58, 7];
 totle = data.length;
 let sum = 0;
 for (i = 0; i < totle; i++) {
